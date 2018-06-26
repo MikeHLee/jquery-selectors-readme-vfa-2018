@@ -1,7 +1,7 @@
 //function 1
 function paragraphSelector(){
   return $('p');
-} 
+}
 
 //function 2
 
@@ -13,5 +13,3 @@ function paragraphSelector(){
 
 
 //function 5
-
-
